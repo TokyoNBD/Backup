@@ -1,0 +1,31 @@
+.color {
+    background-image: linear-gradient(to right, rgb(102, 13, 13), rgb(241, 146, 4) );
+}
+
+.textcent {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragrafo {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.divs {
+    font-size: 15px;
+    color:aliceblue
+}
+
+.default {
+    color: rgb(217, 255, 0);
+    font-size: 20px;
+    text-align: center;
+}
